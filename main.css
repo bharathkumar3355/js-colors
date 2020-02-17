@@ -3,6 +3,13 @@ footer {
   padding-bottom: 1em;
   background-color: burlywood;
 }
-h4{
-  color: blueviolet;
+
+#red{
+color: red;
+}
+#blue{
+  color: blue;
+}
+#green{
+  color: green;
 }
